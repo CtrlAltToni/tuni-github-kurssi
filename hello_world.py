@@ -1,4 +1,2 @@
 print("Hello world!")
-print("Hello once again")
-print("Hello from feature")
-print("Hello from release")
+print("I've come to talk with you again")
